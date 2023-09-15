@@ -21,9 +21,9 @@ const songs = [
     },
     {
         path: 'assets/Kanye West,Kid Cudi - Father Stretch My Hands Pt. 1.mp3',
-        displayName: 'You Will Never See Me Coming',
+        displayName: 'Father Stretch My Hands Pt. 1.',
         cover: 'assets/2.jpg',
-        artist: 'NEFFEX',
+        artist: 'Kanye West  Kid Cudi',
     },
     {
         path: 'assets/2.mp3',
