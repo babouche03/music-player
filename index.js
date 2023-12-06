@@ -14,21 +14,21 @@ const music = new Audio();
 
 const songs = [
     {
-        path: 'assets/1.mp3',
+        path: 'https://cdn.jsdelivr.net/gh/babouche03/music-player/assets/1.mp3',
         displayName: 'I`ll Fly Away',
-        cover: 'assets/1.jpg',
+        cover: 'https://cdn.jsdelivr.net/gh/babouche03/music-player/assets/1.jpg',
         artist: 'Kanye West',
     },
     {
-        path: 'assets/Kanye West,Kid Cudi - Father Stretch My Hands Pt. 1.mp3',
+        path: 'https://cdn.jsdelivr.net/gh/babouche03/music-player/assets/Kanye West,Kid Cudi - Father Stretch My Hands Pt. 1.mp3',
         displayName: 'Father Stretch My Hands Pt. 1.',
-        cover: 'assets/2.jpg',
+        cover: 'https://cdn.jsdelivr.net/gh/babouche03/music-player/assets/2.jpg',
         artist: 'Kanye West  Kid Cudi',
     },
     {
-        path: 'assets/2.mp3',
+        path: 'https://cdn.jsdelivr.net/gh/babouche03/music-player/assets/2.mp3',
         displayName: 'Never see me again',
-        cover: 'assets/3.jpg',
+        cover: 'https://cdn.jsdelivr.net/gh/babouche03/music-player/assets/3.jpg',
         artist: 'Kanye West',
     }
 ];
