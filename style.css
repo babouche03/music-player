@@ -40,10 +40,14 @@ body{
 .container{
     background-color: #e7e7e7;
     height: 500px;
-    width: 400px;
+    width: 390px;
     border-radius: 20px;
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
     transition: all 0.5s ease;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .container:hover{
@@ -141,3 +145,8 @@ h3{
     position: relative;
     top: 3px;
 }
+
+.popup-pic{
+    height: 60px;
+    margin-left: 30px;
+   }
