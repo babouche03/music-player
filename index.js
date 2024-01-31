@@ -27,9 +27,21 @@ const songs = [
     },
     {
         path: 'https://cdn.jsdelivr.net/gh/babouche03/music-player/assets/JAY-Z,Gloria Carter - Smile.mp3',
-        displayName: 'Never see me again',
-        cover: 'https://cdn.jsdelivr.net/gh/babouche03/music-player/assets/3.jpg',
-        artist: 'Kanye West',
+        displayName: 'Smile',
+        cover: 'https://cdn.jsdelivr.net/gh/babouche03/music-player/assets/jay.jpg',
+        artist: 'JAY-Z Gloria Carter',
+    },
+     {
+        path: 'https://cdn.jsdelivr.net/gh/babouche03/music-player/assets/nike.mp3',
+        displayName: 'Nikes(Justice Der Guitar)',
+        cover: 'https://cdn.jsdelivr.net/gh/babouche03/music-player/assets/frank.webp',
+        artist: 'Frank Ocean',
+    },
+    {
+        path: 'https://cdn.jsdelivr.net/gh/babouche03/music-player/assets/Wu-Tang Clan - C.R.E.A.M.mp3',
+        displayName: 'C.R.E.A.M',
+        cover: 'https://cdn.jsdelivr.net/gh/babouche03/music-player/assets/wu.jpg',
+        artist: 'Wu-Tang Clan',
     }
 ];
 
