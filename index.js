@@ -26,7 +26,7 @@ const songs = [
         artist: 'Kanye West  Kid Cudi',
     },
     {
-        path: 'https://cdn.jsdelivr.net/gh/babouche03/music-player/assets/2.mp3',
+        path: 'https://cdn.jsdelivr.net/gh/babouche03/music-player/assets/JAY-Z,Gloria Carter - Smile.mp3',
         displayName: 'Never see me again',
         cover: 'https://cdn.jsdelivr.net/gh/babouche03/music-player/assets/3.jpg',
         artist: 'Kanye West',
