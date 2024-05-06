@@ -14,33 +14,33 @@ const music = new Audio();
 
 const songs = [
     {
-        path: 'https://gcore.jsdelivr.net /gh/babouche03/music-player/assets/1.mp3',
+        path: 'https://gcore.jsdelivr.net/gh/babouche03/music-player/assets/1.mp3',
         displayName: 'I`ll Fly Away',
-        cover: 'https://gcore.jsdelivr.net /gh/babouche03/music-player/assets/1.jpg',
+        cover: 'https://gcore.jsdelivr.net/gh/babouche03/music-player/assets/1.jpg',
         artist: 'Kanye West',
     },
     {
-        path: 'https://gcore.jsdelivr.net /gh/babouche03/music-player/assets/Kanye West,Kid Cudi - Father Stretch My Hands Pt. 1.mp3',
+        path: 'https://gcore.jsdelivr.net/gh/babouche03/music-player/assets/Kanye West,Kid Cudi - Father Stretch My Hands Pt. 1.mp3',
         displayName: 'Father Stretch My Hands Pt. 1.',
-        cover: 'https://gcore.jsdelivr.net /gh/babouche03/music-player/assets/2.jpg',
+        cover: 'https://gcore.jsdelivr.net/gh/babouche03/music-player/assets/2.jpg',
         artist: 'Kanye West  Kid Cudi',
     },
     {
-        path: 'https://gcore.jsdelivr.net /gh/babouche03/music-player/assets/JAY-Z,Gloria Carter - Smile.mp3',
+        path: 'https://gcore.jsdelivr.net/gh/babouche03/music-player/assets/JAY-Z,Gloria Carter - Smile.mp3',
         displayName: 'Smile',
-        cover: 'https://gcore.jsdelivr.net /gh/babouche03/music-player/assets/jay.jpg',
+        cover: 'https://gcore.jsdelivr.net/gh/babouche03/music-player/assets/jay.jpg',
         artist: 'JAY-Z Gloria Carter',
     },
      {
-        path: 'https://gcore.jsdelivr.net /gh/babouche03/music-player/assets/nike.mp3',
+        path: 'https://gcore.jsdelivr.net/gh/babouche03/music-player/assets/nike.mp3',
         displayName: 'Nikes(Justice Der Guitar)',
-        cover: 'https://gcore.jsdelivr.net /gh/babouche03/music-player/assets/frank.webp',
+        cover: 'https://gcore.jsdelivr.net/gh/babouche03/music-player/assets/frank.webp',
         artist: 'Frank Ocean',
     },
     {
-        path: 'https://gcore.jsdelivr.net /gh/babouche03/music-player/assets/Wu-Tang Clan - C.R.E.A.M.mp3',
+        path: 'https://gcore.jsdelivr.net/gh/babouche03/music-player/assets/Wu-Tang Clan - C.R.E.A.M.mp3',
         displayName: 'C.R.E.A.M',
-        cover: 'https://gcore.jsdelivr.net /gh/babouche03/music-player/assets/wu.jpg',
+        cover: 'https://gcore.jsdelivr.net/gh/babouche03/music-player/assets/wu.jpg',
         artist: 'Wu-Tang Clan',
     }
 ];
